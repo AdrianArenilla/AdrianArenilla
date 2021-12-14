@@ -40,7 +40,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianArenilla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianArenilla&layout=compact&langs_count=7&theme=dracula"/>
 </p>
-<p align="center"<b>Note:</b> Top lenguajes is only a metric of the leanguajes my public code consists of and doesn't reflect experience or skill level.</p>
+<p align="center"
+   <b>Note: Top lenguajes is only a metric of the leanguajes my public code consists of and doesn't reflect experience or skill level.</b>
+</p>
 
 ### 📭 Contact me:
 <p align="center">

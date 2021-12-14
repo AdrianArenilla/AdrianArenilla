@@ -10,10 +10,10 @@
 - 💻 I’m currently working as a Junior Big Data Developer --> Splunk | Python.
 - 🌱 I’m currently learning Splunk and Python.
 
-<div>
+<div align="center">
   <a href="https://github.com/AdrianArenilla">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrianArenilla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianArenilla&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AdrianArenilla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianArenilla&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <h3 align="center">I have knowledge of...</h3>

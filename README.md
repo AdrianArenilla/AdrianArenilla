@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=adrianarenilla&label=Profile%20views&color=129e00&style=plastic" alt="adrianarenilla"/> </p>
-  <img alt="Adrian-pic" height="200em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84444459/145989580-a6ac496c-c9bf-4ac2-ba5d-6a008a5106f3.png">
+  <img alt="Adrian-pic" height="250em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84444459/145989580-a6ac496c-c9bf-4ac2-ba5d-6a008a5106f3.png">
 </div>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrian</h1>
@@ -16,6 +16,7 @@
 <p align="center">
   <img align="center" alt="Adrian-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
   <img align="center" alt="Adrian-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
+  <img align="center" alt="Adrian-Splunk" height="40" width="40" src="https://user-images.githubusercontent.com/84444459/146010950-e41b129a-7a56-416c-b634-1e9d6973c31a.png" title="Splunk">
   <img align="center" alt="Adrian-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="Csharp">
   
   <img align="center" alt="Adrian-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">

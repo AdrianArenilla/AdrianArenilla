@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=adrianarenilla&label=Profile%20views&color=0e75b6&style=flat" alt="adrianarenilla" /> </p>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=adrianarenilla&label=Profile%20views&color=129e00&style=plastic" alt="adrianarenilla"/> </p>
   <img alt="Adrian-pic" height="200em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84444459/145989580-a6ac496c-c9bf-4ac2-ba5d-6a008a5106f3.png">
 </div>
 

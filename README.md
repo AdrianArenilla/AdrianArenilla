@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=adrianarenilla&label=Profile%20views&color=129e00&style=plastic" alt="adrianarenilla"/> </p>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=adrianarenilla&label=Profile%20views&color=129e00&style=flag" alt="adrianarenilla"/> </p>
   <img alt="Adrian-pic" height="250em" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84444459/145989580-a6ac496c-c9bf-4ac2-ba5d-6a008a5106f3.png">
 </div>
 
@@ -26,14 +26,14 @@
   <img align="center" alt="Adrian-MySQL" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
   
   <img align="center" alt="Adrian-Azure" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure">
-  <img align="center" alt="Adrian-Bash" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash">
+  <img align="center" alt="Adrian-Bash" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/146040135-c86a5749-8a9a-47b4-bc0d-89bcaa8db60e.png" title="Bash">
   
   <img align="center" alt="Adrian-Postman" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145986849-eac9ecde-1104-45af-b1a0-6990ecfc7972.png" title="Postman">
   
   <img align="center" alt="Adrian-Unity" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145986208-1c7b4457-3857-455f-a60f-17ff4d3f7577.jpg" title="Unity">
   
   <img align="center" alt="Adrian-Git" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
-  <img align="center" alt="Adrian-PowerShell" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145985621-2b13d4b5-7093-49dc-ad1a-eed8d8607b3f.jpg" title="PowerShell">
+  <img align="center" alt="Adrian-PowerShell" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145985621-2b13d4b5-7093-49dc-ad1a-eed8d8607b3f.jpg" title="PowerShell">  
 </p>
 
 ### 📊 My Github Stats:

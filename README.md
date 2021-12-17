@@ -38,7 +38,7 @@
 
 ### 💼 My Projects:
 
-- <a href="https://github.com/AdrianArenilla?tab=projects">My Azure Projects</a>
+- <a href="https://github.com/AdrianArenilla?tab=projects" style="color: red">My Azure Projects</a>
 
 ### 📊 My Github Stats:
 <p align="center">

@@ -36,6 +36,10 @@
   <img align="center" alt="Adrian-PowerShell" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145985621-2b13d4b5-7093-49dc-ad1a-eed8d8607b3f.jpg" title="PowerShell">  
 </p>
 
+### 💼 My Projects:
+
+- <a href="https://github.com/AdrianArenilla?tab=projects">My Azure Projects</a>
+
 ### 📊 My Github Stats:
 <p align="center">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AdrianArenilla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -17,7 +17,6 @@
   <img align="center" alt="Adrian-Java" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
   <img align="center" alt="Adrian-Python" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img align="center" alt="Adrian-Splunk" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/146010950-e41b129a-7a56-416c-b634-1e9d6973c31a.png" title="Splunk">
-  <img align="center" alt="Adrian-Csharp" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="Csharp">
   
   <img align="center" alt="Adrian-HTML" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
   <img align="center" alt="Adrian-CSS" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
@@ -27,8 +26,6 @@
   
   <img align="center" alt="Adrian-Azure" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure">
   <img align="center" alt="Adrian-Bash" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/146040135-c86a5749-8a9a-47b4-bc0d-89bcaa8db60e.png" title="Bash">
-  
-  <img align="center" alt="Adrian-Postman" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145986849-eac9ecde-1104-45af-b1a0-6990ecfc7972.png" title="Postman">
   
   <img align="center" alt="Adrian-Unity" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145986208-1c7b4457-3857-455f-a60f-17ff4d3f7577.jpg" title="Unity">
   

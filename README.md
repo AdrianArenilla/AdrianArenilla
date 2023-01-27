@@ -10,7 +10,7 @@
 ### 🙋‍♂️ About Me:
 - 💻 I’m currently working as a **Junior Big Data Developer --> Splunk | HTML5, CSS3 y JavaScript.**
 - 🌱 I’m currently learning **Splunk and Python.**
-- ⚡ Fun fact **I go to the GYM very often and walk in the mountains.**
+- ⚡ Fun fact **I go to the CrossFit very often and walk in the mountains.**
 
 ### 🚀 Languajes and Tools:
 <p align="center">

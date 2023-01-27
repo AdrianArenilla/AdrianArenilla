@@ -43,8 +43,8 @@
 
 ### 📭 Contact me:
 <p align="center">
-  <a href = "mailto:adry.arsec@gmail.com"><img HSPACE="7" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adrianarenillaseco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:adry.arsec@gmail.com"><img HSPACE="7" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adrianarenillaseco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </p>
 
   ![Snake animation](https://github.com/AdrianArenilla/AdrianArenilla/blob/output/github-contribution-grid-snake.svg)

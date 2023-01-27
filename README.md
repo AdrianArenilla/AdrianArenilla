@@ -8,18 +8,18 @@
 <h3 align="center">A passionate backend developer from Spain <img align="center" alt="Adrian-Java" height="35" width="35" src="https://user-images.githubusercontent.com/84444459/145979428-9e99ae46-ae6e-41de-9f48-fc94071bfb83.png"></h3>
 
 ### 🙋‍♂️ About Me:
-- 💻 I’m currently working as a **Junior Big Data Developer --> Splunk | Python.**
+- 💻 I’m currently working as a **Junior Big Data Developer --> Splunk | HTML5, CSS3 y JavaScript.**
 - 🌱 I’m currently learning **Splunk and Python.**
 - ⚡ Fun fact **I go to the GYM very often and walk in the mountains.**
 
 ### 🚀 Languajes and Tools:
 <p align="center">
   <img align="center" alt="Adrian-Java" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
-  <img align="center" alt="Adrian-Python" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
   <img align="center" alt="Adrian-Splunk" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/146010950-e41b129a-7a56-416c-b634-1e9d6973c31a.png" title="Splunk">
   
   <img align="center" alt="Adrian-HTML" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
   <img align="center" alt="Adrian-CSS" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+  <img align="center" alt="Adrian-JavaScript" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
 
   <img align="center" alt="Adrian-Oracle" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle">
   <img align="center" alt="Adrian-MySQL" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
@@ -29,8 +29,7 @@
   
   <img align="center" alt="Adrian-Unity" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145986208-1c7b4457-3857-455f-a60f-17ff4d3f7577.jpg" title="Unity">
   
-  <img align="center" alt="Adrian-Git" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">
-  <img align="center" alt="Adrian-PowerShell" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145985621-2b13d4b5-7093-49dc-ad1a-eed8d8607b3f.jpg" title="PowerShell">  
+  <img align="center" alt="Adrian-Git" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">  
 </p>
 
 ### 💼 My Projects:

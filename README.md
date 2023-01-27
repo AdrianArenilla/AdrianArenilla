@@ -19,7 +19,7 @@
   <img align="center" alt="Adrian-CSS" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
   <img align="center" alt="Adrian-JavaScript" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
 
-    <img align="center" alt="Adrian-Java" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
+  <img align="center" alt="Adrian-Java" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
   <img align="center" alt="Adrian-Oracle" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle">
   <img align="center" alt="Adrian-MySQL" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
   <img align="center" alt="Adrian-Azure" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure">

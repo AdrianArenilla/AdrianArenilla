@@ -14,21 +14,17 @@
 
 ### 🚀 Languajes and Tools:
 <p align="center">
-  <img align="center" alt="Adrian-Java" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
   <img align="center" alt="Adrian-Splunk" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/146010950-e41b129a-7a56-416c-b634-1e9d6973c31a.png" title="Splunk">
-  
   <img align="center" alt="Adrian-HTML" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
   <img align="center" alt="Adrian-CSS" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
   <img align="center" alt="Adrian-JavaScript" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript">
 
+    <img align="center" alt="Adrian-Java" height="40" width="40" HSPACE="2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
   <img align="center" alt="Adrian-Oracle" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle">
   <img align="center" alt="Adrian-MySQL" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL">
-  
   <img align="center" alt="Adrian-Azure" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure">
   <img align="center" alt="Adrian-Bash" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/146040135-c86a5749-8a9a-47b4-bc0d-89bcaa8db60e.png" title="Bash">
-  
   <img align="center" alt="Adrian-Unity" height="40" width="40" HSPACE="2" src="https://user-images.githubusercontent.com/84444459/145986208-1c7b4457-3857-455f-a60f-17ff4d3f7577.jpg" title="Unity">
-  
   <img align="center" alt="Adrian-Git" height="40" width="40" HSPACE="2" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git">  
 </p>
 
